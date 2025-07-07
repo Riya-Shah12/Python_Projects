@@ -2,3 +2,6 @@
 # python
 # plotpy
 # streamlit
+streamlit
+plotly
+pandas
